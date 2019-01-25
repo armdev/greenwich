@@ -1,7 +1,7 @@
 # greenwich
 Spring Cloud Gateway with Greenwich.RELEASE
 Gateway routes with eureka and not only.
-Start all services just on localhost, no docker, no kubernates, no cloud.
+Start all services just on localhost, no docker, no kubernetes, no cloud, but Cloud Native!
 
 Access via gateway
 
