@@ -8,4 +8,5 @@ Access via gateway
 1. http://localhost:2019/github/api/v2/github/repos
 2. http://localhost:2019/armdev
 3. http://localhost:2019/
+4. http://localhost:2019/google/api/v2/google/search
 
